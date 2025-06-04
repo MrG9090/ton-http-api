@@ -164,4 +164,4 @@ Binary file `libtonlibjson` now moved to [pytonlib](https://github.com/toncenter
 ### No working liteservers error.
 
 Usually, liteservers from the config has already deleted the block, which specified in `init_block` section.
-To update init block, please **backup your config file** and run script `./scripts/update_init_block.sh private/mainnet.json`. For testnet add flag `--testnet`.
+To update init block, please **backup your config file** and run script `./scripts/update_init_block.sh private/mainnet.json`. For testnet add flag `--testnet`. 
